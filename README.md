@@ -1,2 +1,7 @@
-# demo-ikigai-odontologia
-Demo web para Ikigai Odontología — diseñada por eterlab.
+# Ikigai Odontología
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
